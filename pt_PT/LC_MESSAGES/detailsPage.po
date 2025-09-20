@@ -13,10 +13,10 @@ msgid "ADMIN_ACTIONS"
 msgstr "Accções de Administrador"
 
 msgid "BY_FORMAT"
-msgstr "by %s"
+msgstr "por %s"
 
 msgid "CREDITS"
-msgstr "Credits"
+msgstr "Creditos"
 
 msgid "ENTER_DESCRIPTION"
 msgstr "Introduz uma descrição..."
@@ -28,7 +28,7 @@ msgid "FLIPNOTE_TITLE_FORMAT"
 msgstr "Flipnote de %s"
 
 msgid "HAPPY_FLIPNOTING"
-msgstr "Happy Flipnoting!"
+msgstr "Feliz Flipnoting!"
 
 msgid "HEADER_ADD_DESCRIPTION"
 msgstr "Adicionar Descrição"
@@ -55,7 +55,7 @@ msgid "HEADER_DOWNLOADS"
 msgstr "Downloads"
 
 msgid "HEADER_FLIPNOTE_CREDITS"
-msgstr "Flipnote Credits"
+msgstr "Créditos do Flipnote"
 
 msgid "HEADER_FLIPNOTE_ID"
 msgstr "ID do Flipnote"
@@ -73,7 +73,7 @@ msgid "HEADER_ORIGINAL_FLIPNOTE"
 msgstr "Ver o Flipnote de fonte here"
 
 msgid "HEADER_PLAYS"
-msgstr "Plays"
+msgstr "Reproduções"
 
 msgid "HEADER_POSTED"
 msgstr "Postado"
@@ -143,4 +143,4 @@ msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote Sem-Título de %s"
 
 msgid "VIEW"
-msgstr "View"
+msgstr "Ver"
