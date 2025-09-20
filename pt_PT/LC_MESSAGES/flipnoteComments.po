@@ -4,13 +4,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CANCEL"
-msgstr "Cancel"
+msgstr "Cancelar"
 
 msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "Foste restrito de usar o Sudomemo."
 
 msgid "COMMENT_POST_FAILED"
-msgstr "Post do comentário falhou. Tente outra vez dentro de momentos."
+msgstr "O post do comentário falhou. Tente outra vez dentro de momentos."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "Por favor confirma o teu email antes de postar."
@@ -58,7 +58,7 @@ msgid "PAGE_FORMAT"
 msgstr "Página %d"
 
 msgid "REPLYING_TO_X"
-msgstr "Replying to %s"
+msgstr "A responder a %s"
 
 msgid "SUDOMEMO_USER"
 msgstr "Utilizador do Sudomemo"
