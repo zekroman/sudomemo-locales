@@ -4,47 +4,47 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ABOUT"
-msgstr "About"
+msgstr "Acerca"
 
 # Keep ALL_FLIPNOTES_FOLDER under 7 characters.
 msgid "ALL_FLIPNOTES_FOLDER"
-msgstr "All"
+msgstr "Todos"
 
 msgid "BUTTON_ALL_SETTINGS"
-msgstr "View All Settings"
+msgstr "Ver todas as Definições"
 
 msgid "BUTTON_BACK"
-msgstr "Back"
+msgstr "Voltar"
 
 msgid "BUTTON_CLOSE_PLAYER"
-msgstr "Close Player"
+msgstr "Fechar Reprodutor"
 
 msgid "BUTTON_CLOSE_SETTINGS"
-msgstr "Close Settings"
+msgstr "Fechar Definições"
 
 msgid "BUTTON_DIGITAL_SHIFT"
 msgstr "Shift"
 
 msgid "BUTTON_TO_TOP"
-msgstr "Top"
+msgstr "Topo"
 
 msgid "CREDITS"
-msgstr "Credits"
+msgstr "Creditos"
 
 msgid "CREDITS_CREATOR"
-msgstr "Created by King Mayro"
+msgstr "Criado por King Mayro"
 
 msgid "CREDITS_SPECIAL_THANKS"
-msgstr "Special Thanks"
+msgstr "Com agradecimentos de"
 
 msgid "DONT_SHOW_NOTICE_AGAIN"
-msgstr "Please don't show this again"
+msgstr "Por favor não me mostres isto outra vez"
 
 msgid "DUPLICATES"
-msgstr "Duplicates"
+msgstr "Duplicados"
 
 msgid "DUPLICATE_INSIDE_FOLDER"
-msgstr "Inside:"
+msgstr "Dentro:"
 
 msgid "FLIPNOTE"
 msgstr "Flipnote"
@@ -53,304 +53,304 @@ msgid "FLIPNOTE_AMOUNT"
 msgstr "Flipnotes"
 
 msgid "FLIPNOTE_DETAILS_AUTHOR"
-msgstr "Creator:"
+msgstr "Criador:"
 
 msgid "FLIPNOTE_ORGANIZER"
-msgstr "Flipnote Organizer"
+msgstr "Organizador de Flipnotes"
 
 msgid "FLIPNOTE_ORGANIZER_SECONDARY_TAGLINE"
-msgstr "Sort, view, search, and watch your downloaded Flipnotes!"
+msgstr "Ordenar, vêr, procurar e reproduzir os teus Flipnotes descarregados!"
 
 msgid "FLIPNOTE_ORGANIZER_TAGLINE"
-msgstr "Keep your Flipnotes and folders nice and tidy with the Flipnote Organizer!"
+msgstr "Mantém os teus Flipnotes e pastas bem arrumadas com o Organizador de Flipnotes!"
 
 # Treat these as if they have a number attatched.
 msgid "FOLDER"
-msgstr "folder"
+msgstr "pasta"
 
 msgid "FOLDER_AMOUNT"
-msgstr "folders"
+msgstr "pastas"
 
 msgid "FOLDER_NOTE"
-msgstr "You can find your Flipnote folder at %s"
+msgstr "Podes encontrar a pasta do(s) teu(s) Flipnote(s) aqui: %s"
 
 msgid "FOLDER_NOTE_DONT_WORRY"
-msgstr "Your Flipnotes are not uploaded or stored; they are loaded locally."
+msgstr "Os teus Flipnotes não são enviados ou guardados no servidor; eles são carregados localmente."
 
 msgid "FOLDER_NOTE_WIIMOTE_CANT_SELECT"
-msgstr "A mouse must be used to select your Flipnote folder due to browser permissions."
+msgstr "Um rato tem de ser usado para seleccionar a tua pasta de Flipnotes devido ás permissões do teu navegador."
 
 msgid "FOLDER_SELECTOR"
-msgstr "Click or drag and drop a folder in here!"
+msgstr "Clique ou arrasta uma pasta para aqui!"
 
 msgid "FOLDER_SELECTOR_NO_DRAG"
 msgstr "Click here to load a folder!!!"
 
 msgid "HOW_TO_USE"
-msgstr "How to Use"
+msgstr "Como usar"
 
 msgid "IMPORTANT"
-msgstr "Important:"
+msgstr "Importante:"
 
 msgid "JAVASCRIPT_NEEDED"
-msgstr "The Flipnote Organizer requires Javascript to run."
+msgstr "O Organizador de Flipnotes precisa de Javascript para ser usado."
 
 msgid "JAVASCRIPT_PLEAE_ENABLE"
-msgstr "Please enable Javascript within your browsers settings."
+msgstr "Por-favor active o Javascript nas definições do teu navegador de internet."
 
 msgid "LINKS"
 msgstr "Links"
 
 msgid "LISTING_ALL_FLIPNOTES"
-msgstr "All Flipnotes"
+msgstr "Todos os Flipnotes"
 
 msgid "LISTING_NO_SEARCH_RESULTS"
-msgstr "No Results..."
+msgstr "Sem Resultados..."
 
 msgid "LISTING_SEARCH_RESULTS"
-msgstr "Search Results"
+msgstr "Resultados da Procura"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Próximo"
 
 msgid "NO"
-msgstr "No"
+msgstr "Não"
 
 msgid "NO_THANKS"
-msgstr "No thanks"
+msgstr "Não obrigado"
 
 msgid "OK"
 msgstr "OK"
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "Voltar"
 
 msgid "PREVIOUS"
-msgstr "Previous"
+msgstr "Anterior"
 
 msgid "SEARCH"
-msgstr "Search"
+msgstr "Procurar"
 
 msgid "SEARCH_FILTERS"
-msgstr "Search Filters"
+msgstr "Filtros de Procura"
 
 msgid "SEARCH_FILTER_LOCKED"
-msgstr "Locked"
+msgstr "Trancado"
 
 msgid "SEARCH_FILTER_LOCKED_OPTION_UNLOCKED"
-msgstr "Unlocked"
+msgstr "Destrancado"
 
 msgid "SEARCH_FILTER_OPTION_ANY"
-msgstr "Any"
+msgstr "Qualquer"
 
 msgid "SEARCH_FILTER_SPINOFF"
 msgstr "Spinoff"
 
 msgid "SEARCH_PLACEHOLDER"
-msgstr "Enter a Creator, FSID, or use filters"
+msgstr "Digite um Criador, FSID, ou usa os filtros"
 
 msgid "SEARCH_RESULTS_FOLDER"
-msgstr "Results"
+msgstr "Resultados"
 
 msgid "SEARCH_TITLE"
-msgstr "Search Flipnotes"
+msgstr "Procurar Flipnotes"
 
 msgid "SEARCH_WAITING"
-msgstr "Indexing Flipnotes, this may take some time depending on how many Flipnotes you have..."
+msgstr "A indexar Flipnotes, isto pode demorar algum tempo dependendo de quantos Flipnotes tu tens..."
 
 msgid "SELECT_HERE"
-msgstr "Select here!"
+msgstr "Seleccionar aqui!"
 
 msgid "SETTINGS_CLASSIC_SOUNDS"
-msgstr "Classic Button Sounds"
+msgstr "Sons de Botões Clássicos"
 
 msgid "SETTINGS_CLASSIC_SOUNDS_DESCRIPTION"
-msgstr "When enabled, the original Flipnote Studio sounds are used instead of the Flipnote Organizer versions."
+msgstr "Quando activos, os sons do Flipnote Studio originais são usados em vez dos sons do Organizador de Flipnotes."
 
 msgid "SETTINGS_CLEAR_FLIPNOTE_CACHE"
-msgstr "Clear Flipnote Cache"
+msgstr "Limpar Cache de Flipnotes"
 
 msgid "SETTINGS_FLIPNOTE_DETAILS_DIGITAL_SHIFT"
-msgstr "Digital Shift Button"
+msgstr "Botão Shift Digital"
 
 msgid "SETTINGS_FLIPNOTE_DETAILS_DIGITAL_SHIFT_DESCRIPTION"
-msgstr "For when the shift key is unavailable, or when it is preferable to have an auto-hold on shift. This cannot be used if Gallery View is enabled."
+msgstr "Para quando a tecla Shift está indisponível, ou quando é preferível ter o botão preso. Esta função não pode ser usada na Vista de Galeria."
 
 msgid "SETTINGS_FLIPNOTE_DETAILS_SHIFT"
-msgstr "Shift for More Flipnote Details"
+msgstr "Pressione Shift para mais Detalhes do Flipnote"
 
 msgid "SETTINGS_FLIPNOTE_DETAILS_SHIFT_DESCRIPTION"
-msgstr "When holding shift or using the Digital Shift, extra details about Flipnotes will be displayed. It is recommended to keep this on. This cannot be used if Gallery View is enabled."
+msgstr "Quando a tecla shift é pressionada ou quando usas a Tecla Shift Digital, extra detalhes sobre os Flipnotes serão mostrados. É recomendado manter isto ligado. Esta função não pode ser usada na Vista de Galeria."
 
 msgid "SETTINGS_FLIPNOTE_VIEW_FLIPNOTE_3D"
-msgstr "View KWZs"
+msgstr "Ver KWZ"
 
 msgid "SETTINGS_FLIPNOTE_VIEW_FLIPNOTE_3D_DESCRIPTION"
-msgstr "When enabled, Flipnote Studio 3D KWZs will show up in the file system. KWZs may not support certain functions that PPMs do such as Color Accessibility, or Searchability."
+msgstr "Quando activada, os KWZ do Flipnote Studio 3D irão aparecer no sistema de ficheiros. Os KWZ podem não suportar certas funções que os PPM tem como Acessibilidade de Cores, e serem capazes de ser Procurados."
 
 msgid "SETTINGS_FLIPNOTE_VIEW_FLIPNOTE_3D_REFRESH"
-msgstr "A refresh must be done for this setting to take effect."
+msgstr "Terás de actualizar a página para que esta definição faça efeito."
 
 msgid "SETTINGS_FLIPNOTE_VIEW_GALLERY"
-msgstr "Gallery View"
+msgstr "Vista de Galeria"
 
 msgid "SETTINGS_FLIPNOTE_VIEW_GALLERY_DESCRIPTION"
-msgstr "When enabled, only the thumbnails of Flipnotes will be shown. If Gallery View is enabled, Shift for More Flipnote Details will be unavailable."
+msgstr "Quando activada, só as imagens dos Flipnotes serão mostradas. Se a Vista de Galeria está activada, A Tecla Shift para mais Detalhes de Flipnotes estará indisponível."
 
 msgid "SETTINGS_FLIPNOTE_VIEW_ORIGINAL_THUMBNAIL"
-msgstr "Original Flipnote Thumbnail Resolution"
+msgstr "Resolução Original da Imagem do Flipnote"
 
 msgid "SETTINGS_FLIPNOTE_VIEW_ORIGINAL_THUMBNAIL_DESCRIPTION"
-msgstr "When enabled, Flipnotes will use the built-in PPM thumbnails. These thumbnails are typically far less vibrant and are lower resolution, as such it is generally recommended to keep this off."
+msgstr "Quando activada, os Flipnotes irão utilizar as imagens de demonstração dos PPM incluídos. Estas imagens de demonstração costumam ser menos vibrantes e com baixa resolução, é recomendado deixar esta função desactivada."
 
 msgid "SETTINGS_FLIPNOTE_VIEW_SORT_BY_FILENAME"
-msgstr "Sort Flipnotes Alphabetically by Filename"
+msgstr "Ordenas Flipnotes Alfabeticamente por Nome de Ficheiro"
 
 msgid "SETTINGS_FLIPNOTE_VIEW_SORT_BY_FILENAME_DESCRIPTION"
-msgstr "When enabled, Flipnotes will be sorted alphabetically based on the filename. To maintain parity with listing on the Organizer and on DSi, it is generally recommended to keep this off."
+msgstr "Quando activada, os Flipnotes serão ordenados alfabeticamente baseado no nome de ficheiro. Para manter consistencia com o Organizador e o Sistema DSi, é recomendado deixar esta função desactivada."
 
 msgid "SETTINGS_FLIPNOTE_VIEW_STICKERS"
-msgstr "Display Stickers on Flipnotes"
+msgstr "Mostrar Autocolantes nos Flipnotes"
 
 msgid "SETTINGS_FLIPNOTE_VIEW_STICKERS_DESCRIPTION"
-msgstr "When enabled, Flipnotes will have stickers shown on top of their thumbnails. To maintain parity with listing on the Organizer and on DSi, it is generally recommended to keep this on."
+msgstr "Quando activada, os Flipnotes irão ter autocolantes visíveis em cima das imagens de demonstração. Para manter consistencia com o Organizador e o Sistema DSi, é recomendado deixar esta função activada."
 
 msgid "SETTINGS_GALLERY_ICONS"
-msgstr "Display Icons Over Thumbnails in Gallery View"
+msgstr "Mostrar Ícones em cima das Imagens na Vista de Galeria"
 
 msgid "SETTINGS_GALLERY_ICONS_DESCRIPTION"
-msgstr "When enabled, Flipnotes will have icons shown on top of their thumbnails. Unless the icons are blocking thumbnails, it is generally recommended to keep this on."
+msgstr "Quando activada, os Flipnotes irão ter ícones visíveis em cima das imagens de demonstração. A não ser que os ícones estejam a bloquear as imagens de demonstração, é recomendado deixar esta função activada."
 
 msgid "SETTINGS_GALLERY_THUMBNAIL_SCALE"
-msgstr "Gallery View Thumbnail Scale"
+msgstr "Escala de Imagens da Vista de Galeria"
 
 msgid "SETTINGS_GALLERY_THUMBNAIL_SCALE_DESCRIPTION"
-msgstr "Adjust the scale of the Gallery View thumbnails."
+msgstr "Ajusta o tamanho das imagens de demonstração na Vista de Galeria."
 
 msgid "SETTINGS_ORGANIZER_FIX_NAVBAR"
-msgstr "Fix Navbar to the Top"
+msgstr "Fixar a Barra de Navegação no Topo"
 
 msgid "SETTINGS_ORGANIZER_FIX_NAVBAR_DESCRIPTION"
-msgstr "The navigation bar will always be fixed to the top of the screen. This may be useful when you want to access settings without returning to the top of the page."
+msgstr "A barra de navegação irá ser fixa no topo do ecrã. Isto pode ser útil quando queres aceder as definições sem voltar para o topo da página."
 
 msgid "SETTINGS_PLAYER_COLOR_ACCESSIBILITY"
-msgstr "Change Flipnote Player Colors"
+msgstr "Mudar Cores do Reprodutor de Flipnotes"
 
 msgid "SETTINGS_PLAYER_COLOR_ACCESSIBILITY_DESCRIPTION"
-msgstr "Modifications to red and blue for those who have sensitivites to certain colors or tones, or color deficiencies. These options may make some Flipnotes look awkward as they weren't designed with variable color tones in mind."
+msgstr "Modificações para o vermelho e azul para aqueles que tem sensibilidades a certas cores, tons de cores, ou daltonismo. Estas opções podem alterar negativamente a visualização de Flipnotes pois não foram concebidos para ser vistos assim."
 
 msgid "SETTINGS_PLAYER_COLOR_OPTION_COLORBLIND"
-msgstr "Color Deficiency"
+msgstr "Daltonismo"
 
 msgid "SETTINGS_PLAYER_COLOR_OPTION_DESATURATED"
-msgstr "Desaturated"
+msgstr "Desaturado"
 
 msgid "SETTINGS_PLAYER_COLOR_OPTION_FLIPNOTE"
 msgstr "Original"
 
 msgid "SETTINGS_PLAYER_COLOR_OPTION_GRAYSCALE"
-msgstr "Grayscale"
+msgstr "Escala de Cinza"
 
 msgid "SETTINGS_PLAYER_COLOR_OPTION_PASTEL"
-msgstr "Pastel"
+msgstr "Tons Pastel"
 
 msgid "SETTINGS_PLAYER_COLOR_OPTION_SOFT"
-msgstr "Soft"
+msgstr "Tons Suaves"
 
 msgid "SETTINGS_PLAYER_INTERPOLATION"
-msgstr "Flipnote Player Pixels Always Crisp"
+msgstr "Pixeis do Reprodutor de Flipnotes sempre afiados"
 
 msgid "SETTINGS_PLAYER_INTERPOLATION_DESCRIPTION"
-msgstr "Pixels in the Flipnote Player will always be crisp at the cost of pixel distortion if using a scale between 1x and 2x or a non-standard zoom level."
+msgstr "Os pixeis no Reprodutor de Flipnotes serão sempre afiados com o custo de distorção de pixeis ao usar uma escala entre 1x e 2x ou um nível de zoom não normal."
 
 msgid "SETTINGS_PLAYER_SCALE"
-msgstr "Flipnote Player Scale"
+msgstr "Escala do Reprodutor de Flipnotes"
 
 msgid "SETTINGS_PLAYER_SCALE_DESCRIPTION"
-msgstr "Adjust the scale of the Flipnote Player."
+msgstr "Ajusta o tamanho do Reprodutor de Flipnotes."
 
 msgid "SETTINGS_PLAYER_TREBLE"
-msgstr "Boost Flipnote Treble"
+msgstr "Aumentar os Altos do Flipnote"
 
 msgid "SETTINGS_PLAYER_TREBLE_DESCRIPTION"
-msgstr "Boosts the volume of higher audio frequencies while playing Flipnotes."
+msgstr "Esta função aumenta o volume das frequencias de volume mais agudas enquanto a reproduzir Flipnotes."
 
 msgid "SETTINGS_SHUFFLE_BUTTON"
-msgstr "Shuffle Button"
+msgstr "Botão Aleatório"
 
 msgid "SETTINGS_SHUFFLE_BUTTON_DESCRIPTION"
-msgstr "If disabled, the shuffle button will be hidden and shuffle mode will not be available."
+msgstr "Se desactivado, o botão aleatório será escondido e o modo aleatório estará indisponível."
 
 msgid "SETTINGS_TITLE_ACCESSIBILITY"
-msgstr "Accessibility"
+msgstr "Acessibilidade"
 
 msgid "SETTINGS_TITLE_ACCESSIBILITY_DESCRIPTION"
-msgstr "Options intended to make usage more pleasant with changes to visuals, sound, etc."
+msgstr "Opções indicadas para ser mais adequadas para certos utilizadores usando definições específicas como visuais, sons, etc."
 
 # These settings are usually hidden, so don't worry about them too much.
 msgid "SETTINGS_TITLE_DEVELOPER"
-msgstr "Dev Settings"
+msgstr "Definições de Desenvolvedor"
 
 msgid "SETTINGS_TITLE_DEVELOPER_DESCRIPTION"
-msgstr "These features are still in their early phases and have a low likelihood of adoption."
+msgstr "Estas funções estão nas fases iniciais e tem uma possibilidade baixa de serem implementadas."
 
 msgid "SETTINGS_TITLE_EXPERIMENTAL"
 msgstr "Experimental"
 
 msgid "SETTINGS_TITLE_EXPERIMENTAL_DESCRIPTION"
-msgstr "These features are in an unstable and experimental phase. They may be removed or break in the future."
+msgstr "Estas funções estão instáveis e numa fase experimental. Pois podem ser removidas ou causar erros no futuro."
 
 msgid "SETTINGS_TITLE_QUICK_SETTINGS"
-msgstr "Quick Settings"
+msgstr "Definições Rápidas"
 
 msgid "SETTINGS_TITLE_SETTINGS"
-msgstr "Settings"
+msgstr "Definições"
 
 msgid "SETTINGS_USE_WIIMOTE"
-msgstr "Use a Wiimote"
+msgstr "Usar um Wiimote"
 
 msgid "SETTINGS_USE_WIIMOTE_DESCRIPTION"
-msgstr "Use a Wiimote to interact with the organizer one-handed, as well as get feedback such rumble. For information about using Wiimotes, visit %s"
+msgstr "Usar um Wiimote para interagir com o organizador de uma só mão, e também receber feedback como vibração. Para mais informação em como usar Wiimotes, visite %s"
 
 msgid "SETTINGS_USE_WIIMOTE_DESCRIPTION_CALIBRATE"
-msgstr "To recalibrate IR, try not to tilt your Wiimote too much and press A when one of your IR dots is within the boxes in each corner."
+msgstr "Para recalibrar os Infravermelhos, tenta não inclinar o teu Wiimote demasiado e pressiona o botão A quando um dos pontos IV está dentro das caixas em cada canto."
 
 msgid "SETTINGS_VOLUME"
-msgstr "Sound Effects Volume"
+msgstr "Volume dos Efeitos de Som"
 
 msgid "SETTINGS_VOLUME_DESCRIPTION"
-msgstr "Adjust the volume of button sounds."
+msgstr "Ajusta o volume dos sons que os botões fazem."
 
 msgid "SETTINGS_WHISTLE_SOUND"
-msgstr "Play Whistle Sound when Sorting"
+msgstr "Tocar um Assobio quando Organizar Itens"
 
 msgid "SETTINGS_WHISTLE_SOUND_DESCRIPTION"
-msgstr "When enabled, a whistle sound will play when you begin organizing Flipnotes. If you are sensitive to high-pitched noises, it is generally recommended to turn this off."
+msgstr "Quando activada. um assobio irá tocar quando começares a organizar Flipnotes. Se tens sensibilidade a sons agudos, é recomendado desactivar esta função."
 
 msgid "SETTINGS_WIIMOTE_IN_QUICK_SETTINGS"
-msgstr "Select Wiimote Button in Quick Settings"
+msgstr "Seleccionar Botão Wiimote nas Definições Rápidas"
 
 msgid "SETTINGS_WIIMOTE_IN_QUICK_SETTINGS_DESCRIPTION"
-msgstr "When enabled, a Select Wiimote button will be added to Quick Settings."
+msgstr "Quando activada, um botão Seleccionar Botão Wiimote irá aparecer nas Definições Rápidas."
 
 msgid "SETTINGS_WIIMOTE_RUMBLE_FEEDBACK"
-msgstr "Wiimote Rumble"
+msgstr "Vibração do Wiimote"
 
 msgid "SETTINGS_WIIMOTE_RUMBLE_FEEDBACK_DESCRIPTION"
-msgstr "When enabled, the Wiimote will rumble when interacting with certain things."
+msgstr "Quando activada, o Wiimote irá vibrar quando interagir com certas coisas."
 
 msgid "SETTINGS_WIIMOTE_VOLUME"
-msgstr "Wiimote Speaker Volume"
+msgstr "Volume do Altifalante do Wiimote"
 
 # RVL-CNT-01-TR is the device name when viewed in bluetooth and should not be changed.
 msgid "SETTINGS_WIIMOTE_VOLUME_DESCRIPTION"
-msgstr "Adjust the volume of the Wiimote speaker. Only RVL-CNT-01-TR Wiimotes support usage of the speaker."
+msgstr "Ajusta o volume do altifalante do Wiimote. Só os Wiimotes com o nome RVL-CNT-01-TR conseguem usar o altifalante."
 
 msgid "SHUFFLE_SKIP"
-msgstr "Skip"
+msgstr "Saltar"
 
 msgid "SORT_CANCEL"
-msgstr "Cancel"
+msgstr "Cancelar"
 
 msgid "SORT_CONTROLLER_WIIMOTE"
 msgstr "Wiimote"
@@ -366,13 +366,13 @@ msgid "SORT_CONTROLLER_WIIMOTE_AND_NUNCHUK"
 msgstr "Wiimote + Nunchuk"
 
 msgid "SORT_FINISH"
-msgstr "Confirm"
+msgstr "Confirmar"
 
 msgid "SORT_GENERIC_CONTROLLER"
-msgstr "Generic Controller"
+msgstr "Comando Genérico"
 
 msgid "SORT_INSTRUCTIONS"
-msgstr "Select a Flipnote with the arrow keys, and drag and drop with the space bar. Leaving this folder without hitting \"Confirm\" will discard your changes."
+msgstr "Seleccionar um Flipnote com as setas direcionais, e arrasta com a barra de espaços. Se saires desta pasta sem carregares em \"Confirm\" irá descartar as tuas mudanças."
 
 msgid "SORT_INSTRUCTIONS_CONTROLLER"
 msgstr "Select a Flipnote with the D-PAD, and drag and drop with the A or X (Playstation) button. Leaving this folder without hitting \"Confirm\" will discard your changes."
