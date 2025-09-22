@@ -46,7 +46,7 @@ msgid "NEWS"
 msgstr "Notícias do Sudomemo"
 
 msgid "NEW_ARRIVALS"
-msgstr "New Arrivals"
+msgstr "Novos Posts"
 
 msgid "REGISTER"
 msgstr "Registar"
