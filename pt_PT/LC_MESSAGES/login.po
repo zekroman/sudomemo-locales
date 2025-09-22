@@ -4,23 +4,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ACKNOWLEDGE_FAILED"
-msgstr "Failed to acknowledge the mute. Please try again."
+msgstr "Impossível aplicar a opção \"silencio\". Por-favor tente de novo."
 
 msgid "AGE_GATE_AGE_REQUIREMENT"
-msgstr "Sudomemo is meant to be used by people 13 years and up."
+msgstr "O Sudomemo é suposto ser usado por pessoas de 13 anos de idade."
 
 msgid "AGE_GATE_ERROR_CHECK"
-msgstr "If this message is appearing in error, please make sure your birthday is set correctly in your Flipnote Studio settings."
+msgstr "Se esta mensagem te aparece como um erro, por-favor certifique-se que o teu aniversário está definido correctamente nas tuas definições do Flipnote Studio."
 
 msgid "AGE_GATE_PARENT_INFO"
-msgstr "For more information, parents can visit: https://flipnot.es/parents"
+msgstr "Para mais informação, os pais/encarregados de educação podem visitar: https://flipnot.es/parents"
 
 msgid "AGE_GATE_PARENT_MESSAGE"
-msgstr "Please have your parents read this message."
+msgstr "Por favor facam com que os vossos pais ou encarregados de educação leiam esta mensagem."
 
 # Age gate message for users under 13
 msgid "AGE_GATE_TITLE"
-msgstr "It looks like you aren't old enough to use Sudomemo"
+msgstr "Parece não teres a idade suficiente para usar o Sudomemo"
 
 msgid "BAN_GREETING_FORMAT"
 msgstr "Olá, %s."
