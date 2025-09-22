@@ -58,7 +58,7 @@ msgid "FRAGMENT_OTHER_PERSON_SINGULAR"
 msgstr " outra pessoa"
 
 msgid "FRAGMENT_REPLIED_TO_YOUR_COMMENT_ON"
-msgstr " replied to your comment on "
+msgstr " respondeu ao teu comentário em "
 
 msgid "FRAGMENT_REPORT"
 msgstr "reportar"
