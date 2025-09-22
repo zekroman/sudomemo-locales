@@ -64,10 +64,10 @@ msgid "TYPE_FAVE_NOTIF_NAME"
 msgstr "Adicionado aos Favoritos"
 
 msgid "TYPE_METADATA_NOTICE_DESC"
-msgstr "Receive an email when we find issues with your Flipnote metadata"
+msgstr "Receber um email quando encontramos problemas com os metadados dos teus Flipnotes"
 
 msgid "TYPE_METADATA_NOTICE_NAME"
-msgstr "Missing Metadata Notice"
+msgstr "Aviso Sobre Metdados em Falta"
 
 msgid "TYPE_NEWS_DESC"
 msgstr "Receber um email quando algo novo é postado nas Notícias do Sudomemo"
