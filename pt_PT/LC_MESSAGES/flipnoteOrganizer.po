@@ -84,7 +84,7 @@ msgid "FOLDER_SELECTOR"
 msgstr "Clique ou arrasta uma pasta para aqui!"
 
 msgid "FOLDER_SELECTOR_NO_DRAG"
-msgstr "Click here to load a folder!!!"
+msgstr "Clique aqui para carregar uma pasta!!!"
 
 msgid "HOW_TO_USE"
 msgstr "Como usar"
@@ -378,111 +378,111 @@ msgid "SORT_GENERIC_CONTROLLER"
 msgstr "Comando Genérico"
 
 msgid "SORT_INSTRUCTIONS"
-msgstr "Seleccionar um Flipnote com as setas direcionais, e arrasta com a barra de espaços. Se saires desta pasta sem carregares em \"Confirm\" irá descartar as tuas mudanças."
+msgstr "Seleccionar um Flipnote com as setas direcionais, e arrasta com a barra de espaços. Se saíres desta pasta sem carregares em \"Confirmar\" irá descartar as tuas mudanças."
 
 msgid "SORT_INSTRUCTIONS_CONTROLLER"
-msgstr "Select a Flipnote with the D-PAD, and drag and drop with the A or X (Playstation) button. Leaving this folder without hitting \"Confirm\" will discard your changes."
+msgstr "Seleccionar um Flipnote com o D-PAD, e arrasta com os botões A ou Cruz(x) - (Playstation). Se saíres desta pasta sem carregar em \"Confirmar\" irá descartar as tuas mudanças."
 
 msgid "SORT_INSTRUCTIONS_WIIMOTE"
-msgstr "Select a Flipnote by hovering your pointer over it, and drag by holding A + B. Leaving this folder without hitting \"Confirm\" will discard your changes."
+msgstr "Seleccionar um Flipnote ao apontar com o teu ponteiro, e arrastar ao segurar os botões A + B. Se saíres desta pasta sem carregar em \"Confirmar\" irá descartar as tuas mudanças."
 
 msgid "SORT_JOYL_CONTROLLER"
-msgstr "Left Joycon"
+msgstr "Joycon Esquerdo"
 
 msgid "SORT_JOYR_CONTROLLER"
-msgstr "Right Joycon"
+msgstr "Joycon Direito"
 
 msgid "SORT_JOYS_CONTROLLER"
 msgstr "Joycons"
 
 msgid "SORT_PRO_SWITCH_CONTROLLER"
-msgstr "Switch Pro Controller"
+msgstr "Comando Switch Pro"
 
 msgid "SORT_PS3_CONTROLLER"
-msgstr "Playstation 3 Controller"
+msgstr "Comando Playstation 3 (DualShock 3/SIXAXIS)"
 
 msgid "SORT_PS4_CONTROLLER"
-msgstr "Playstation 4 Controller"
+msgstr "Comando Playstation 4 (DualShock 4)"
 
 msgid "SORT_PS5_CONTROLLER"
-msgstr "Playstation 5 Controller"
+msgstr "Comando Playstation 5 (DualSense)"
 
 msgid "SORT_PS_CONTROLLER"
-msgstr "Playstation Controller"
+msgstr "Comando Playstation (Original/DualShock)"
 
 msgid "SORT_SAVE_NOTICE"
-msgstr "To update the sort order of your Flipnotes, overwrite the dirmemo2.lst file in the folder you just sorted with the one downloaded by the Flipnote Organizer."
+msgstr "Para actualizar a ordem de organização dos teus Flipnotes, substitui o ficheiro dirmemo2.lst na pasta que acabaste de organizar, com o ficheiro da pasta que descarregaste com o Organizador de Flipnotes."
 
 msgid "SORT_SAVE_NOTICE_TITLE"
-msgstr "Please note:"
+msgstr "Tomem nota:"
 
 msgid "SORT_WARNING_ALL_FLIPNOTES"
-msgstr "You can't reorganize Flipnotes in All Flipnotes."
+msgstr "Não podes reorganizar Flipnotes na categoria Todos os Flipnotes."
 
 msgid "SORT_WARNING_FLIPNOTE_3D"
-msgstr "You can't reorganize Flipnotes made in Flipnote Studio 3D."
+msgstr "Não podes reorganizar Flipnotes criados no Flipnote Studio 3D."
 
 msgid "SORT_WARNING_NOT_ENOUGH_PPMS"
-msgstr "You only have 1 Flipnote silly!"
+msgstr "Só tens 1 Flipnote, seu tolo!"
 
 msgid "SORT_WARNING_NO_PPMS"
-msgstr "You don't have any PPMs in this folder."
+msgstr "Não tens nenhum PPM nesta pasta."
 
 msgid "SORT_WARNING_SETTINGS"
-msgstr "Open Settings"
+msgstr "Abrir Definições"
 
 # "dirmemo" and "dirmemo2.lst" refer to the sorting file Flipnote uses and should not be translated.
 msgid "SORT_WARNING_TOO_MANY_DIRMEMO"
-msgstr "You can't organize when there is more than one dirmemo file. Try loading less subdirectories."
+msgstr "Não podes organizar quando há mais que um ficheiro dirmemo. Tenta carregar menos sub-pastas."
 
 msgid "SORT_WARNING_TOO_MANY_FLIPNOTES"
-msgstr "You have more than 100 Flipnotes in this folder; Flipnote Studio will ignore any Flipnote past 100. Please move some Flipnotes."
+msgstr "Tens mais que 100 Flipnotes nesta pasta; o Flipnote Studio irá ignorar qualquer Flipnote a seguir do número 100. Por-favor organiza alguns dos teus Flipnotes."
 
 msgid "SORT_WARNING_WRONG_SORTING_MODE"
-msgstr "You need to turn off Sort Flipnotes Alphabetically by Filename in settings before you can sort Flipnotes."
+msgstr "Tens de desactivar a função Ordenar Flipnotes Alfabeticamente por Nome de Ficheiro nas definições antes de organizar os teus Flipnotes."
 
 msgid "SORT_XBOX_CONTROLLER"
-msgstr "Xbox Controller"
+msgstr "Comando Xbox"
 
 msgid "SUDOMEMO_ACCOUNT"
-msgstr "Sudomemo Account"
+msgstr "Conta Sudomemo"
 
 msgid "SUDOMEMO_ACCOUNT_CREATORS_ROOM"
-msgstr "Creator's Room"
+msgstr "Sala do Criador"
 
 msgid "SUDOMEMO_ACCOUNT_HELP_CENTER"
-msgstr "Help Center"
+msgstr "Centro de Ajuda"
 
 msgid "SUDOMEMO_ACCOUNT_HOME"
-msgstr "Home"
+msgstr "Início"
 
 msgid "SUDOMEMO_ACCOUNT_LOGIN"
 msgstr "Login"
 
 msgid "SUDOMEMO_ACCOUNT_LOGOUT"
-msgstr "Sign Out"
+msgstr "Sair"
 
 msgid "SUDOMEMO_ACCOUNT_SETTINGS"
-msgstr "Account Settings"
+msgstr "Definições da Conta"
 
 msgid "SUDOMEMO_NOT_LOGGED_IN"
-msgstr "You must be logged in to do that!"
+msgstr "Tens de fazer login para fazer isso!"
 
 msgid "SURE"
-msgstr "Sure!"
+msgstr "Certo!"
 
 # Keep VIEW_ALL_FLIPNOTES under 10 characters.
 msgid "VIEW_ALL_FLIPNOTES"
-msgstr "View All"
+msgstr "Ver Todos"
 
 msgid "WIIMOTE_EXTENSION_NOTICE"
-msgstr "This extension controller cannot be used. Please remove it from the Wiimote."
+msgstr "O Organizador de Flipnotes não suporta esta extensão do Wiimote. Por-favor deliga-o do Wiimote."
 
 msgid "WIIMOTE_RECALIBRATE_IR"
-msgstr "Recalibrate IR"
+msgstr "Recalibrar InfraVermelhos"
 
 msgid "WIIMOTE_SELECT"
-msgstr "Select Wiimote"
+msgstr "Seleccionar Wiimote"
 
 msgid "YES"
-msgstr "Yes"
+msgstr "Sim"
