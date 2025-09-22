@@ -18,53 +18,53 @@ msgstr "Acerca do Sudomemo"
 
 # Success Messages
 msgid "ACCOUNT_ADDED_SUCCESS"
-msgstr "Account added successfully"
+msgstr "Conta adicionada com successo"
 
 msgid "ACCOUNT_ALREADY_IN_SWITCHER"
-msgstr "Account already added"
+msgstr "Esta conta já foi adicionada anteriormente"
 
 msgid "ACCOUNT_BANNED_BLOCKED"
-msgstr "Account is restricted from Sudomemo"
+msgstr "A conta está restrita do Sudomemo"
 
 msgid "ACCOUNT_NOT_FOUND"
-msgstr "Account not found"
+msgstr "A conta não foi encontrada ou não existe"
 
 msgid "ACCOUNT_NOT_IN_SWITCHER"
-msgstr "Account not found in switcher"
+msgstr "A conta não foi encontrada no menu de troca de contas"
 
 # Accessibility
 msgid "ACCOUNT_PROFILE_IMAGE"
-msgstr "Profile image for %s"
+msgstr "Imagem de perfil de %s"
 
 msgid "ACCOUNT_REMOVED_SUCCESS"
-msgstr "Account removed"
+msgstr "Conta removida"
 
 # Account Settings (Theatre)
 msgid "ACCOUNT_SETTINGS"
 msgstr "Definições de Conta"
 
 msgid "ACCOUNT_SWITCHED_SUCCESS"
-msgstr "Switched to account successfully"
+msgstr "Troca de conta feita com successo"
 
 # Account Switcher Interface
 msgid "ACCOUNT_SWITCHER"
-msgstr "Manage login"
+msgstr "Gerir o login"
 
 msgid "ADD_ACCOUNT_BUTTON"
-msgstr "Add account"
+msgstr "Adicionar conta"
 
 # Account Switcher Modal
 msgid "ADD_ACCOUNT_TO_SWITCHER"
-msgstr "Add account"
+msgstr "Adicionar conta"
 
 msgid "ADD_ANOTHER_ACCOUNT"
-msgstr "Add another account"
+msgstr "Adicionar outra conta"
 
 msgid "ADD_ANOTHER_ACCOUNT_HELP"
-msgstr "Add another account to switch between them quickly."
+msgstr "Adiciona outra conta para trocar entre elas rápidamente."
 
 msgid "ADD_NEW_WEBHOOK"
-msgstr "Add New Webhook"
+msgstr "Adicionar um novo Webhook"
 
 msgid "ADD_TO_NEW_PLAYLIST"
 msgstr "Adicionar a uma nova Playlist"
@@ -73,10 +73,10 @@ msgid "ADD_TO_PLAYLIST"
 msgstr "Adicionar á Playlist"
 
 msgid "ADD_WEBHOOK"
-msgstr "Add Webhook"
+msgstr "Adicionar um Webhook"
 
 msgid "ALREADY_ON_ACCOUNT"
-msgstr "Already on this account"
+msgstr "Já estás nesta conta"
 
 msgid "ALT_DRAWN_COMMENT_BY_USER"
 msgstr "Comentário desenhado de %s"
@@ -90,7 +90,7 @@ msgid "ALT_WEEKLY_TOPIC_BANNER"
 msgstr "Publicidade em banner do Tópico Semanal"
 
 msgid "AND_PASSWORD"
-msgstr "and password"
+msgstr "e palavra passe"
 
 msgid "ARCHIVE"
 msgstr "Arquivar"
@@ -142,7 +142,7 @@ msgid "BACK"
 msgstr "Voltar"
 
 msgid "BACK_TO_ACCOUNT_SWITCHER"
-msgstr "Back to login manager"
+msgstr "Voltar para o menu de contas"
 
 msgid "BACK_TO_CATEGORIES"
 msgstr "Voltar às Categorias"
@@ -151,7 +151,7 @@ msgid "BACK_TO_MAIL"
 msgstr "Voltar ao Correio"
 
 msgid "BACK_TO_SETTINGS"
-msgstr "Back to Settings"
+msgstr "Voltar às Definições"
 
 msgid "BATCH_EDIT_DESCRIPTION_PLACEHOLDER"
 msgstr "Descrição"
@@ -246,10 +246,10 @@ msgid "CANCEL_PROFILE_PICTURE_CHANGE"
 msgstr "Cancelar"
 
 msgid "CANCEL_REPLY"
-msgstr "Cancel"
+msgstr "Cancelar"
 
 msgid "CANNOT_ADD_CURRENT_ACCOUNT"
-msgstr "Cannot add current account"
+msgstr "Impossível adicionar esta conta"
 
 msgid "CANNOT_POST_LINKS"
 msgstr "Links não são permitidos nas mensagens de chat."
@@ -270,7 +270,7 @@ msgid "CATEGORY"
 msgstr "Categoria"
 
 msgid "CATEGORY_INDEX_CHANNEL_INFO"
-msgstr "Browse themed collections of Flipnotes — and join the fun by posting yours to a channel!"
+msgstr "Vê colecções temáticas de Flipnotes — e junta-te á diversão ao postares os teus num canal!"
 
 msgid "CHANGE_PROFILE_PICTURE"
 msgstr "Mudar Foto de Perfil"
@@ -282,7 +282,7 @@ msgid "CHANNELS"
 msgstr "Canais"
 
 msgid "CHANNELS_BY_CATEGORY"
-msgstr "Channels by category"
+msgstr "Canais por categoria"
 
 msgid "CHANNEL_CAT_NAME_ART"
 msgstr "Arte"
@@ -360,40 +360,40 @@ msgid "COMMENTS"
 msgstr "Comentários"
 
 msgid "COMMENT_BOX_WRITE_HERE_1"
-msgstr "Write something nice here"
+msgstr "Escreve algo simpático aqui"
 
 msgid "COMMENT_BOX_WRITE_HERE_2"
-msgstr "What did you like about this?"
+msgstr "No que gostaste disto?"
 
 msgid "COMMENT_BOX_WRITE_HERE_3"
-msgstr "What do you think?"
+msgstr "O que achaste?"
 
 msgid "COMMENT_BOX_WRITE_HERE_4"
-msgstr "How does this Flipnote make you feel?"
+msgstr "Como é que este Flipnote te fêz sentir?"
 
 msgid "COMMENT_BOX_WRITE_HERE_5"
-msgstr "Write something thoughtful here"
+msgstr "Escreve algo com impacto aqui"
 
 msgid "COMMENT_EDITOR_COLORFUL_BUTTON"
-msgstr "Be colorful!"
+msgstr "Sê colorido!"
 
 msgid "COMMENT_EDITOR_EMOTE_BUTTON"
-msgstr "Emote!"
+msgstr "Dá uma emoção!"
 
 msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "Não podes inserir comentários porque foste banido(a)."
 
 msgid "CONFIRMATION_CODE"
-msgstr "Confirmation Code"
+msgstr "Código de Confirmação"
 
 msgid "CONFIRMATION_CODE_REQUIRED"
 msgstr "Um código de confirmação é preciso para esta acção."
 
 msgid "CONFIRM_DELETE_OVERLAY"
-msgstr "Are you sure you want to delete this overlay? This action cannot be undone."
+msgstr "Tens a certeza que queres apagar este overlay? Esta acção não pode ser anulada."
 
 msgid "CONFIRM_DELETE_WEBHOOK"
-msgstr "Are you sure you want to delete this webhook? This action cannot be undone."
+msgstr "Tens a certeza que queres apagar este webhook? Esta acção não pode ser anulada."
 
 # Discord unlink confirmation dialog
 msgid "CONFIRM_DISCORD_UNLINK"
@@ -404,7 +404,7 @@ msgstr "Tens de confirmar o teu email antes de enviar um comentário."
 
 # Logout Confirmation
 msgid "CONFIRM_LOGOUT"
-msgstr "Confirm Logout"
+msgstr "Confirmar Saída da conta"
 
 msgid "CONFIRM_PROFILE_PICTURE_CHANGE"
 msgstr "Confirmar Mudança a Foto de Perfil"
@@ -414,13 +414,13 @@ msgstr "Definir como Foto de Perfil"
 
 # Confirmation Messages
 msgid "CONFIRM_REMOVE_ACCOUNT"
-msgstr "Are you sure you want to remove this account?"
+msgstr "Tens a certeza que queres remover esta conta?"
 
 msgid "CONFIRM_REMOVE_QUEUE_ITEM"
-msgstr "Are you sure you want to remove this item from the queue?"
+msgstr "Tens a certeza que queres remover este item da fila?"
 
 msgid "CONFIRM_TOGGLE_WEBHOOK"
-msgstr "Are you sure you want to change the status of this webhook?"
+msgstr "Tens a certeza que queres mudar o estado deste webhook?"
 
 msgid "CONTENT_POLICY"
 msgstr "Políticas de Conteúdo"
@@ -457,13 +457,13 @@ msgid "CREATORS_ROOM"
 msgstr "Sala do Criador"
 
 msgid "CURRENTLY_SIGNED_IN_AS"
-msgstr "Currently signed in as:"
+msgstr "Estás a usar a conta:"
 
 msgid "CURRENT_EMAIL"
 msgstr "Email Actual"
 
 msgid "CURRENT_LANGUAGE"
-msgstr "Current Language"
+msgstr "Língua Actual"
 
 msgid "CURRENT_PROFILE_PICTURE"
 msgstr "Foto de Perfil Actual"
@@ -472,7 +472,7 @@ msgid "CUSTOM_FRAMES"
 msgstr "Molduras Customizadas"
 
 msgid "CUSTOM_FRAMES_PLUS_CTA"
-msgstr "Unlock custom frames and more with Sudomemo Plus!"
+msgstr "Desbloqueia molduras customizadas e mais com o Sudomemo Plus!"
 
 # November 29th, 2019 08:23:07
 # Used for Flipnote Details
@@ -496,7 +496,7 @@ msgid "DELETE"
 msgstr "Apagar"
 
 msgid "DELETE_OVERLAY"
-msgstr "Delete overlay"
+msgstr "Apagar Overlay"
 
 msgid "DELETE_PLAYLIST"
 msgstr "Apagar Playlist"
@@ -523,10 +523,10 @@ msgid "DETAILS"
 msgstr "Detalhes"
 
 msgid "DISABLE"
-msgstr "Disable"
+msgstr "Desactivar"
 
 msgid "DISABLED"
-msgstr "Disabled"
+msgstr "Desactivado"
 
 # This refers to Discord, which is a chat app.
 msgid "DISCORD"
@@ -548,28 +548,28 @@ msgid "DISCORD_UNLINK_SUCCESS"
 msgstr "Conta do Discord desligada con successo!"
 
 msgid "DISCORD_WEBHOOKS"
-msgstr "Discord Webhooks"
+msgstr "Webhooks do Discord"
 
 msgid "DISCORD_WEBHOOKS_DESCRIPTION"
-msgstr "Discord webhooks allow you to automatically send notifications to Discord channels when you post new Flipnotes. This is a Sudomemo Plus exclusive feature!"
+msgstr "Os webhooks do Discord permitem-te a enviar notificações para canais do Discord automaticamente quando postas novos Flipnotes. Isto é uma função exclusiva do Sudomemo Plus!"
 
 msgid "DISCORD_WEBHOOKS_PLUS_REQUIRED_DESC"
-msgstr "You'll need Sudomemo Plus to send upload notifications to Discord."
+msgstr "Precisas de estar subscrito ao Sudomemo Plus para enviar notificações automáticas para o Discord."
 
 msgid "DISCORD_WEBHOOKS_PLUS_REQUIRED_TITLE"
-msgstr "Sudomemo Plus Required"
+msgstr "É Necessário o Sudomemo Plus"
 
 msgid "DISCORD_WEBHOOKS_SETTINGS"
-msgstr "Discord Webhook Settings"
+msgstr "Definições dos Webhooks do Discord"
 
 msgid "DISCORD_WEBHOOKS_SETTINGS_DESCRIPTION"
-msgstr "Set up Discord webhooks to get notified when you post new Flipnotes!"
+msgstr "Defina os webhooks do Discord para receber notificações automáticas quando postas novos Flipnotes!"
 
 msgid "DISCORD_WEBHOOK_TEST_MESSAGE"
-msgstr "Discord webhook test - your webhook is working correctly!"
+msgstr "Teste de webhook do Discord - o teu webhook está a funcionar correctamente!"
 
 msgid "DISCORD_WEBHOOK_URL"
-msgstr "Discord Webhook URL"
+msgstr "URL do Webhook do Discord"
 
 msgid "DOWNLOAD"
 msgstr "Download"
@@ -578,14 +578,14 @@ msgid "DOWNLOADS"
 msgstr "Downloads"
 
 msgid "EDIT"
-msgstr "Edit"
+msgstr "Editar"
 
 # Flipnote View Page
 msgid "EDIT_FLIPNOTE"
 msgstr "Editar Flipnote"
 
 msgid "EDIT_OVERLAY_NAME"
-msgstr "Edit overlay name"
+msgstr "Editar nome do overlay"
 
 # # MusicMatch
 msgid "EDIT_PAGE_ABOUT_MUSICMATCH_1"
@@ -659,11 +659,11 @@ msgid "EMAIL_CHANGE_VERIFICATION_SENT"
 msgstr "Email de verificação enviado! Por-favor verifque a caixa de entrada do novo endereço de email e clique no link para confirmar a mudança."
 
 msgid "EMAIL_CONFIRMATION_HELP"
-msgstr "Please check your email for a confirmation code."
+msgstr "Por-favor verifica o teu email para receber um código de confirmação."
 
 # Verification Messages
 msgid "EMAIL_CONFIRMATION_REQUIRED"
-msgstr "Email Confirmation Required"
+msgstr "Confirmação de Email Necessária"
 
 msgid "EMAIL_SAME_AS_CURRENT"
 msgstr "O novo endereço de email deve ser diferente do endereço de email actual."
@@ -678,94 +678,94 @@ msgid "EMPTY_TITLE_ALERT_2"
 msgstr "Vai lá adicionar um agora!"
 
 msgid "ENABLE"
-msgstr "Enable"
+msgstr "Activar"
 
 msgid "ENABLED"
-msgstr "Enabled"
+msgstr "Activado"
 
 msgid "ENTER_CODE_FROM_EMAIL"
-msgstr "Enter code from email"
+msgstr "Insira o código do email"
 
 msgid "ENTER_SIX_DIGIT_CODE"
-msgstr "Enter 6-digit code"
+msgstr "Insira o código de 6-digitos"
 
 msgid "ERROR"
-msgstr "Error"
+msgstr "Erro"
 
 msgid "ERROR_OCCURRED"
-msgstr "An error occurred. Please try again."
+msgstr "Ocorreu um erro. Por favor tente outra vez."
 
 msgid "ERROR_OCCURRED_TRY_AGAIN"
 msgstr "Ocorreu um erro. Por favor tende outra vez."
 
 msgid "EXPORT_FAILED_NETWORK_ERROR"
-msgstr "Export failed: Network error"
+msgstr "Exportação falhou: Erro da rede"
 
 msgid "EXPORT_FAILED_SERVER_ERROR"
-msgstr "Export failed: Server error"
+msgstr "Exportação falhou: Erro do servidor"
 
 msgid "EXPORT_FLIPNOTE"
-msgstr "Export Flipnote"
+msgstr "Exportar Flipnote"
 
 msgid "EXPORT_FLIPNOTE_DESCRIPTION"
-msgstr "Download your Flipnote in different formats."
+msgstr "Faz download do teu Flipnote em vários formatos."
 
 msgid "EXPORT_GIF"
-msgstr "GIF Animation"
+msgstr "Animação GIF"
 
 msgid "EXPORT_GIF_DESCRIPTION"
-msgstr "Animated GIF file"
+msgstr "Ficheiro de Animação em Formato GIF "
 
 msgid "EXPORT_MP4"
-msgstr "MP4 Video"
+msgstr "Vídeo MP4"
 
 msgid "EXPORT_MP4_DESCRIPTION"
-msgstr "High quality video file"
+msgstr "Ficheiro de Vídeo em Alta Qualidade"
 
 msgid "EXPORT_MP4_RATE_LIMIT_EXCEEDED"
-msgstr "Rate limit exceeded. Please wait a little bit before exporting another MP4."
+msgstr "Limite de pedidos excedida. Por favor espere um bocado antes de exportar outro ficheiro MP4."
 
 msgid "EXPORT_MP4_TIMEOUT_WARNING"
-msgstr "Converting your Flipnote for video export may take a little while"
+msgstr "A converter o teu Flipnote para suporte de vídeo, isto pode demorar um bocado"
 
 msgid "EXPORT_PPM"
-msgstr "PPM File"
+msgstr "Ficheiro PPM"
 
 msgid "EXPORT_PPM_DESCRIPTION"
-msgstr "Original Flipnote file"
+msgstr "Ficheiro Original do Flipnote"
 
 msgid "EXPORT_PPM_GENEALOGY_WARNING"
-msgstr "Warning: Sharing the Flipnote's .ppm file for the purpose of collaboration between multiple Creators may leave broken links in Flipnote genealogy, causing original authorship and Spin-off history to become unclear"
+msgstr "Aviso: Ao partilhar o ficheiro .ppm do Flipnote para os propósitos de colaboração entre muitos Criadores pode deixas ligações erradas na genealogia do Flipnote, causando a autoria original e histórico de Spin-offs que fique fosco"
 
 msgid "FAILED_TO_ADD_ACCOUNT"
-msgstr "Failed to add account"
+msgstr "Houve um erro ao adicionar conta"
 
 msgid "FAILED_TO_ADD_WEBHOOK_LIMIT"
-msgstr "Failed to add webhook. You may have reached the maximum limit of 5 webhooks."
+msgstr "Houve um erro ao adicionar o webhook. Podes ter excedido do limite máximo de 5 webhooks."
 
 msgid "FAILED_TO_DELETE_WEBHOOK"
-msgstr "Failed to delete webhook."
+msgstr "Houve um erro ao apagar o webhook."
 
 msgid "FAILED_TO_LOAD_ACCOUNTS"
-msgstr "Failed to load accounts"
+msgstr "Houve um erro ao carregar contas"
 
 msgid "FAILED_TO_REMOVE_ACCOUNT"
-msgstr "Failed to remove account"
+msgstr "Houve um erro ao remover conta"
 
 msgid "FAILED_TO_REMOVE_QUEUE_ITEM"
-msgstr "Failed to remove queue item."
+msgstr "Houve um erro ao remover item da fila."
 
 msgid "FAILED_TO_SEND"
-msgstr "Failed to Send"
+msgstr "Falha ao Enviar"
 
 msgid "FAILED_TO_SWITCH_ACCOUNT"
-msgstr "Failed to switch accounts"
+msgstr "Houve um erro ao trocar contas"
 
 msgid "FAILED_TO_UPDATE_LOCALE"
-msgstr "Failed to update language preference."
+msgstr "Houve um erro ao actualizar a tua preferencia de línguas."
 
 msgid "FAILED_TO_UPDATE_WEBHOOK"
-msgstr "Failed to update webhook."
+msgstr "Houve um erro ao actualizar o webhook."
 
 msgid "FANS"
 msgstr "Fãs"
@@ -860,7 +860,7 @@ msgid "FORGOT_YOUR_PASSWORD"
 msgstr "Esqueceste-te da palavra-passe?"
 
 msgid "FROM_FOLLOWED_USERS"
-msgstr "From your favorites"
+msgstr "Dos teus favoritos"
 
 # # Right sidebar
 msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
